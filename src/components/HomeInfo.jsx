@@ -36,7 +36,7 @@ const renderContent = {
   ),
   2: (
     <InfoBox
-      text="Studied at University of Information Technology, where I acquired a diverse set of skills and knowledge."
+      text="Studied at University of Transport HCM City, where I acquired a diverse set of skills and knowledge."
       link="/about"
       buttonText="Learn more"
     />
