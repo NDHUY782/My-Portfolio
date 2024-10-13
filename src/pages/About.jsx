@@ -28,10 +28,10 @@ const About = () => {
         </p>
         <p>
           Aspiring Web Developer with a passion for creating intuitive and
-          visually appealing digital experiences. Proficient in HTML, CSS, and
-          JavaScript, I am eager to apply classroom knowledge to practical
-          projects, contribute my skills to a dynamic team and learn from
-          experienced professionals.
+          visually appealing digital experiences. Proficient in HTML, CSS,
+          Nodejs, Express, NestJs, MongoDB and JavaScript, I am eager to apply
+          classroom knowledge to practical projects, contribute my skills to a
+          dynamic team and learn from experienced professionals.
         </p>
         <a
           href="/resume.pdf"
