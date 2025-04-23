@@ -34,7 +34,7 @@ const About = () => {
           dynamic team and learn from experienced professionals.
         </p>
         <a
-          href="https://drive.google.com/file/d/1mm--E7EKzE_RI8LstKCxXTy6C1uhAAXf/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1sl5GPO88DfL2QrireZFAKWwpNAdmRtMi/view?usp=sharing"
           alt="resume"
           className="underline font-semibold"
           rel="noopener noreferrer"
